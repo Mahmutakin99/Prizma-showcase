@@ -1,0 +1,21 @@
+name: Öneri paylaş / Suggest an improvement
+description: Prizma'yı nasıl daha kullanışlı hale getirebiliriz?
+title: "[Idea]: "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: İhtiyaç / User need
+      description: Hangi işi yapmak istiyorsun ve mevcut deneyimde ne eksik?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Önerin / Your suggestion
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Ek bilgi / Additional context

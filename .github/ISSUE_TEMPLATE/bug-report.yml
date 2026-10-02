@@ -1,0 +1,38 @@
+name: Hata bildir / Report a bug
+description: Prizma deneyiminde karşılaştığın bir sorunu paylaş.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Lütfen parola, ödeme bilgisi veya kişisel veri paylaşma. / Please do not include passwords, payment details or personal data."
+  - type: input
+    id: device
+    attributes:
+      label: Cihaz ve iOS sürümü / Device and iOS version
+      placeholder: iPhone 17, iOS 26.0
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Prizma sürümü veya build / App version or build
+  - type: textarea
+    id: steps
+    attributes:
+      label: Tekrar adımları / Steps to reproduce
+      description: Nereden başladın, hangi adımları izledin?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Beklenen davranış / Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Gerçekte olan / Actual behavior
+      description: İstersen kişisel bilgileri gizlenmiş ekran görüntüsü ekle.
+    validations:
+      required: true
