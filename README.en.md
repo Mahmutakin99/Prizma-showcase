@@ -4,7 +4,7 @@
   <p><strong>Your phone. Your style.</strong></p>
   <p>A theme, widget, wallpaper and icon studio for iPhone.</p>
   <p>iOS 26+ · SwiftUI · In development</p>
-  <p><a href="README.md">Türkçe</a> · <a href="https://github.com/Mahmutakin99/Prizma-showcase/issues">Feedback</a></p>
+  <p><a href="README.md">Türkçe</a> · <a href="https://github.com/Mahmutakin99/Prizma-showcase/issues">Feedback</a> · <a href="https://github.com/Mahmutakin99/project-portfolio">Product portfolio</a></p>
 </div>
 
 ---

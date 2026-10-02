@@ -4,7 +4,7 @@
   <p><strong>Telefonun, senin tarzın.</strong></p>
   <p>iPhone için tema, widget, duvar kâğıdı ve ikon stüdyosu.</p>
   <p>iOS 26+ · SwiftUI · Geliştirme aşamasında</p>
-  <p><a href="#uygulamayı-keşfet">Ekran görüntüleri</a> · <a href="#nasıl-kullanılır">Nasıl kullanılır?</a> · <a href="https://github.com/Mahmutakin99/Prizma-showcase/issues">Geri bildirim</a> · <a href="README.en.md">English</a></p>
+  <p><a href="#uygulamayı-keşfet">Ekran görüntüleri</a> · <a href="#nasıl-kullanılır">Nasıl kullanılır?</a> · <a href="https://github.com/Mahmutakin99/Prizma-showcase/issues">Geri bildirim</a> · <a href="https://github.com/Mahmutakin99/project-portfolio">Ürün portföyü</a> · <a href="README.en.md">English</a></p>
 </div>
 
 ---
